@@ -4,7 +4,7 @@ require_once 'config.inc.php';
 include 'connection.php';
 
 //if (!file_exists(DB_FILE)) {
-if (true) {
+if (false) {
 	include "header.inc.php";
 	echo "<h2>Netsim installation</h3>\n";
 	echo "<p>No database file was found at ".DB_FILE.", so attempting to create it now...</p>\n";
