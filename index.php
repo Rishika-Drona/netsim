@@ -1,9 +1,8 @@
 <?php
-echo "I'm about to learn PHP!<br>";
 require_once 'login.inc.php';
 
 if (LOGGEDIN && !isset($_GET['level'])) {
-	echo "I m inside your head";
+	
 	include 'listing.inc.php';
 	exit();
 } else if (LOGGEDIN) {

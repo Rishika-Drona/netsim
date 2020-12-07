@@ -1,5 +1,5 @@
 <?php
-echo 'inside login page';
+
 include 'connection.php';
 //if (!file_exists(DB_FILE)) {
 if (false) {
