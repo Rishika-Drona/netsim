@@ -1,5 +1,5 @@
 # netsim
-Web-based network simulator for teaching hacking to high schoolers
+Web-based network simulator for teaching hacking to high schoolers without the login page
 
 # try it out
 You don't need to download and run the code yourself; you can use our hosted version at [netsim.erinn.io](https://netsim.erinn.io/).
@@ -8,9 +8,6 @@ You don't need to download and run the code yourself; you can use our hosted ver
 - place files on a webserver
 - copy sample.config.inc.php to config.inc.php (editing if necessary)
 - browse to index.php to initialize the database
-
-# support
-Erinn is on [Patreon](https://www.patreon.com/errorinn)
 
 # acknowledgements
 - created by erinn atwater and cecylia bocovich
